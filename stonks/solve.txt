@@ -1,0 +1,35 @@
+%x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x
+
+
+4bb19723 0 4ba3e1e7 1a 7fffffff 26982ba0 6d792a0 0 6d796d0 6d7a980 6d7a9a0 656b6166 4b000a67 d68 a 4bb196a0 64f3151 64f5010 4bb1a4a0 0
+
+
+
+f7fac723 0 f7ed11e7 1a 7fffffff ffffdea0 555592a0 0 5555a2d0 5555b600 5555b620 656b6166 f7000a67 d68 a f7fac6a0 55556151 55558010 f7fad4a0 0
+
+
+0x
+
+7ffff7ed11e7
+
+0x
+
+7fffffffdec0
+
+
+%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN%pNN
+
+
+
+
+
+
+
+
+0x7fffffffdec0
+
+0x7ffff7fac723 (nil) 0x7ffff7ed11e7 0x1a 0x7fffffff 0x7fffffffdea0 0x5555555592a0 0x500000000 0x55555555a2d0 0x55555555b540 0x55555555b560 0x616c665f656b6166 0x7ffff7000a67 0xd68 0xa 0x7ffff7fac6a0 0x555555556151 0x555555558010 0x7ffff7fad4a0 (nil)
+
+
+
+0x7ffff7fac723 (nil) 0x7ffff7ed11e7 0x1a 0x7fffffff 0x7fffffffdea0 0x5555555592a0 0x200000000 0x55555555a2d0 0x55555555b520 0x55555555b540 0x616c665f656b6166 0x7ffff7000a67 0xd68 0xa 0x7ffff7fac6a0 0x555555556151 0x555555558010 0x7ffff7fad4a0 (nil) 0x7ffff7e54013 0x14 0x7ffff7fac6a0 0x555555556151 0x7ffff7e4771a 0x555555555810 0x7fffffffdf90 0x555555555220 0x6c0e84c4152f8e00 0x7fffffffdf90 0x5555555557d3 0x7fffffffe088 0x155555810 (nil) 0x155555220 0x5555555592a0 0x6c0e84c4152f8e00

@@ -1,0 +1,3 @@
+break /home/null/Desktop/projects/pico_2021/stonks/vuln.c:74
+break /home/null/Desktop/projects/pico_2021/stonks/vuln.c:94
+

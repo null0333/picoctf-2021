@@ -1,0 +1,5 @@
+break /home/null/Desktop/projects/pico_2021/stonks/vuln.c:74
+disable $bpnum
+break /home/null/Desktop/projects/pico_2021/stonks/vuln.c:94
+disable $bpnum
+

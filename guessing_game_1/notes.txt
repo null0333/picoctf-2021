@@ -1,0 +1,33 @@
+keep incrementing until ans > bufsize
+
+
+
+
+9223372036854775807
+
+
+9223372036854775807
+
+
+winner - 100
+rbp - 8
+
+
+padding
+address of shellcode
+shellcode
+
+
+make sure aslr is disabled
+
+0x7fffffffdef0 <- address of buffer
+
+0x401eec <- address of function
+
+
+shellcode | padding | address
+<---------------------------|
+
+
+
+aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaamaaanaaaoaaapaaaqaaaraaasaaataaauaaavaaawaaaxaaayaaazaabbaabcaabdaabeaabfaab
